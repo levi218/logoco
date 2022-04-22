@@ -1,0 +1,4 @@
+/* You can add global styles to this file, and also import other style files */
+#logger .react-monaco-editor-container { /* the up most container of the editor */
+    filter: invert(1) hue-rotate(110deg) brightness(.8) grayscale(.7);
+}
